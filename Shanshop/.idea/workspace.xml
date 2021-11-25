@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39a506b8-4a0b-4d1e-8e69-1b77945c9768" name="Default Changelist" comment="第一次提交，无美化，仅登陆跳转">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shanshop.iml" afterDir="false" />
+    <list default="true" id="39a506b8-4a0b-4d1e-8e69-1b77945c9768" name="Default Changelist" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/../shanshops/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/src/views/sindex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/shanshops/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shanshops/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanshop/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/shanshop/.postcssrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanshop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shanshop/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanshop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/shanshop/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanshop/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shanshop/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shanxing/shanxing/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shanxing/shanxing/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +90,11 @@
     <property name="nodejs_interpreter_path" value="D:/软件/Node/node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="npm.npm serve">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/shanshop/src/main.js" working-dir="$PROJECT_DIR$/shanshop/src">
       <method v="2" />
     </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -77,6 +120,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
+        <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +135,9 @@
       <option name="presentableId" value="Default" />
       <updated>1637758545022</updated>
       <workItem from="1637758548105" duration="3966000" />
-      <workItem from="1637762551694" duration="4731000" />
+      <workItem from="1637762551694" duration="9792000" />
+      <workItem from="1637822220914" duration="451000" />
+      <workItem from="1637823838373" duration="1238000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，无美化，仅登陆跳转">
       <created>1637769864845</created>
@@ -100,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637769864845</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1637770916487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637770916487</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,40 +162,45 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交，无美化，仅登陆跳转" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交，无美化，仅登陆跳转" />
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="109" key="CommitChangelistDialog2" timestamp="1637770127316">
+    <state x="337" y="109" key="CommitChangelistDialog2" timestamp="1637771397417">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="337" y="109" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1637770127316" />
-    <state x="585" y="356" key="Github.ShareDialog" timestamp="1637770828999">
+    <state x="337" y="109" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1637771397417" />
+    <state x="137" y="75" key="DiffContextDialog" timestamp="1637771386680">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="585" y="356" key="Github.ShareDialog/0.0.1440.920@0.0.1440.920" timestamp="1637770828999" />
-    <state width="677" height="242" key="GridCell.Tab.0.bottom" timestamp="1637764759738">
+    <state x="137" y="75" key="DiffContextDialog/0.0.1440.920@0.0.1440.920" timestamp="1637771386680" />
+    <state x="585" y="356" width="270" height="280" key="Github.ShareDialog" timestamp="1637771135688">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="677" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1637764759738" />
-    <state width="677" height="242" key="GridCell.Tab.0.center" timestamp="1637764759738">
+    <state x="585" y="356" width="270" height="280" key="Github.ShareDialog/0.0.1440.920@0.0.1440.920" timestamp="1637771135688" />
+    <state width="698" height="239" key="GridCell.Tab.0.bottom" timestamp="1637822671296">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="677" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1637764759738" />
-    <state width="677" height="242" key="GridCell.Tab.0.left" timestamp="1637764759738">
+    <state width="698" height="239" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1637822671296" />
+    <state width="698" height="239" key="GridCell.Tab.0.center" timestamp="1637822671295">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="677" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1637764759738" />
-    <state width="677" height="242" key="GridCell.Tab.0.right" timestamp="1637764759738">
+    <state width="698" height="239" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1637822671295" />
+    <state width="698" height="239" key="GridCell.Tab.0.left" timestamp="1637822671295">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="677" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1637764759738" />
+    <state width="698" height="239" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1637822671295" />
+    <state width="698" height="239" key="GridCell.Tab.0.right" timestamp="1637822671295">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="698" height="239" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1637822671295" />
     <state x="515" y="185" key="RollbackChangesDialog" timestamp="1637770162189">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="515" y="185" key="RollbackChangesDialog/0.0.1440.920@0.0.1440.920" timestamp="1637770162189" />
-    <state x="313" y="197" key="Vcs.Push.Dialog.v2" timestamp="1637770893548">
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2" timestamp="1637771918785">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="313" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1637770893548" />
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1637771918785" />
   </component>
 </project>
