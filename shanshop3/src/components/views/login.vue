@@ -20,7 +20,7 @@
     </el-form-item>
     <el-form-item style="color: white">
       密码：
-      <el-tooltip class="item" effect="dark" content="Top Center 提示文字" placement="top">
+      <el-tooltip class="item" effect="dark" content="请输入手机号/邮箱/" placement="top">
      <el-input type="password"
                v-model="loginForm.password"
                placeholder="请输入密码"
